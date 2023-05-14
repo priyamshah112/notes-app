@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="notesJson">Notes.json</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="priyam_shah">©2023, Priyam Shah</string>
+    <string name="note_title">Note Title</string>
+    <string name="date_time">Date Time</string>
+    <string name="note_text">Note Text</string>
+    <string name="save_note_dialogbox_title">Save Note</string>
+    <string name="save_note_dialogbox_message">Your note is not saved! Save Note \'</string>
+    <string name="dialog_box_yes">Yes</string>
+    <string name="dialog_box_no">No</string>
+    <string name="no_title_message">Note cannot be saved without title! Do you want to exit without saving?</string>
+    <string name="no_title">No Title</string>
+    <string name="mainTitle">mainTitle</string>
+    <string name="mainText">mainText</string>
+    <string name="lastNoteUpdateDate">lastNoteUpdateDate</string>
+    <string name="version_1_0">Version 1.0</string>
+
+</resources>
